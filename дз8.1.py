@@ -141,3 +141,6 @@ Car1=Car('Черный','BMW','2023')
 Car1.start()
 Car1.stop()
 print(f'Цвет {Car1.color}',f'Модель {Car1.type}',f'Год выпуска {Car1.year}')
+
+print(1)
+print(2)
